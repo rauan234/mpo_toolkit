@@ -1,0 +1,6 @@
+test_transpose_physical (outputs.mpo_toolkit.test_mpo.MPOTests.test_transpose_physical) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.202s
+
+OK

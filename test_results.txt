@@ -1,0 +1,34 @@
+test_a4_fusion_multiplicity (outputs.mpo_toolkit.test_mpo.CategoryTests.test_a4_fusion_multiplicity) ... ok
+test_finite_nonrigid_monoid_rejected (outputs.mpo_toolkit.test_mpo.CategoryTests.test_finite_nonrigid_monoid_rejected) ... ok
+test_infinite_candidate_hits_budget (outputs.mpo_toolkit.test_mpo.CategoryTests.test_infinite_candidate_hits_budget) ... ok
+test_noncommutative_fusion_order (outputs.mpo_toolkit.test_mpo.CategoryTests.test_noncommutative_fusion_order) ... ok
+test_s3_nontrivial_associator (outputs.mpo_toolkit.test_mpo.CategoryTests.test_s3_nontrivial_associator) ... ok
+test_z2_and_corrupt_pentagon (outputs.mpo_toolkit.test_mpo.CategoryTests.test_z2_and_corrupt_pentagon) ... ok
+test_algebraic_and_transcendental_constants (outputs.mpo_toolkit.test_mpo.MPOTests.test_algebraic_and_transcendental_constants) ... ok
+test_compose_order (outputs.mpo_toolkit.test_mpo.MPOTests.test_compose_order) ... ok
+test_conjugate_is_physical_adjoint (outputs.mpo_toolkit.test_mpo.MPOTests.test_conjugate_is_physical_adjoint) ... ok
+test_decomposition_accepts_injective_after_blocking (outputs.mpo_toolkit.test_mpo.MPOTests.test_decomposition_accepts_injective_after_blocking) ... ok
+test_fixed_length_injectivity (outputs.mpo_toolkit.test_mpo.MPOTests.test_fixed_length_injectivity) ... ok
+test_input_immutability_and_validation (outputs.mpo_toolkit.test_mpo.MPOTests.test_input_immutability_and_validation) ... ok
+test_multiplicities_and_oblique_zero_sector (outputs.mpo_toolkit.test_mpo.MPOTests.test_multiplicities_and_oblique_zero_sector) ... ok
+test_nonunitary_gauge (outputs.mpo_toolkit.test_mpo.MPOTests.test_nonunitary_gauge) ... ok
+test_rootof_rational_function_zero (outputs.mpo_toolkit.test_mpo.MPOTests.test_rootof_rational_function_zero) ... ok
+test_zero_and_radical (outputs.mpo_toolkit.test_mpo.MPOTests.test_zero_and_radical) ... ok
+test_numerical_thresholds_and_gray_zone (outputs.mpo_toolkit.test_mpo.ZeroTestingTests.test_numerical_thresholds_and_gray_zone) ... ok
+test_policy_invalidates_caches_and_marks_results (outputs.mpo_toolkit.test_mpo.ZeroTestingTests.test_policy_invalidates_caches_and_marks_results) ... ok
+test_unconfirmed_hint_requires_runtime_error (outputs.mpo_toolkit.test_mpo.ZeroTestingTests.test_unconfirmed_hint_requires_runtime_error) ... ok
+test_complex_invertible_one_site (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_complex_invertible_one_site) ... ok
+test_exact_local_is_stronger_than_external_annihilation (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_exact_local_is_stronger_than_external_annihilation) ... ok
+test_inconsistent_singular_physical_operator (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_inconsistent_singular_physical_operator) ... ok
+test_nontrivial_virtual_tensor_and_boundaries (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_nontrivial_virtual_tensor_and_boundaries) ... ok
+test_nonunique_solution_and_kernel (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_nonunique_solution_and_kernel) ... ok
+test_transcendental_expression_backend (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_transcendental_expression_backend) ... ok
+test_two_site_order (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_two_site_order) ... ok
+test_undecidable_pivot_raises (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_undecidable_pivot_raises) ... ok
+test_validation_limits_and_heuristic_label (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_validation_limits_and_heuristic_label) ... ok
+test_zero_tensor (outputs.mpo_toolkit.test_pull_through.PullThroughTests.test_zero_tensor) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 9.655s
+
+OK

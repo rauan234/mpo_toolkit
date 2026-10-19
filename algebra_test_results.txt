@@ -1,0 +1,17 @@
+PASS: M_2(C), including forward/inverse maps
+PASS: full-algebra structural certificates, symbolic maps, and shapes
+PASS: one simple block with physical multiplicity two
+PASS: M_2(C) direct sum M_2(C)
+PASS: conjugated direct sum with nonunitary change of basis
+PASS: commutative, mixed-size, and scalar algebras
+PASS: nonambient identity and zero algebra
+PASS: M_3(C)
+PASS: motivating input takes the direct path without new algebraic roots
+PASS: smaller commutant selects a copy of M_3(C)
+PASS: necessary central quadratic field extension
+PASS: necessary noncentral quadratic field extension
+PASS: exhaustive products on proper subalgebras
+PASS: algebraic and transcendental exact constants
+PASS: nonsemisimple algebra and exact radical certificate
+PASS: substitutions and invalid-input rejection
+All exact self-tests passed.

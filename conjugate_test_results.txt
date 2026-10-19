@@ -1,0 +1,9 @@
+Command: python3 -m unittest outputs.mpo_toolkit.test_mpo.MPOTests.test_conjugate_is_physical_adjoint -v
+
+test_conjugate_is_physical_adjoint ... ok
+
+Ran 1 test in 0.668s
+OK
+
+Checks physical adjoints at periodic lengths 1, 2, and 3, double application,
+composition order reversal, preserved dimensions/limits, and unchanged input.

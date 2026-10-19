@@ -1,0 +1,13 @@
+Command: python3 -m unittest outputs.mpo_toolkit.test_tensor_power_gauge -v
+
+All 8 tests passed in 0.148s.
+
+Coverage:
+- Known invertible identical two-site gauge.
+- Ordinary similarity that cannot be implemented by a tensor power.
+- Complex solutions outside the rational input coefficient field.
+- Nonzero singular intertwiners excluded by the determinant equation.
+- Exact algebraic complex coefficients.
+- Scalar dimensions and identical inputs.
+- Invalid inputs, unsupported fields, and size limits.
+- Exact decisions independent of the heuristic numerical option.
